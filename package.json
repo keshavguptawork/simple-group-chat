@@ -1,0 +1,19 @@
+{
+  "name": "simple-group-chat",
+  "version": "1.0.0",
+  "description": "simple group chat based on websockets",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [
+    "websocket",
+    "chat"
+  ],
+  "author": "Keshav Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "ws": "^8.18.0"
+  }
+}

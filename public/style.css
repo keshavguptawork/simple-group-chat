@@ -1,0 +1,16 @@
+div#log {
+  width: 800px;
+  height: 300px;
+  margin: 0 auto;
+  border: 5px solid black;
+  border-radius: 10px;
+}
+div#sendControls {
+  margin: 30px auto;
+  width: 250px ;
+}
+div#myName {
+  width: 800px;
+  margin: 0 auto;
+  font-size: larger;
+}
